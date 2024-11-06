@@ -5,3 +5,6 @@
 [submodule "gglogger"]
 	path = gglogger
 	url = https://github.com/pwwang/gglogger
+[submodule "plotthis"]
+	path = plotthis
+	url = https://github.com/pwwang/plotthis
